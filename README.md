@@ -27,11 +27,9 @@ Prompt injection is a rising attack vector in LLM applications. This project mim
 
 ---
 
-## 📸 Screenshot
+## 📸 Dashboard Screenshot
 
-## 🖼️ Dashboard Preview
-
-![AI Threat Dashboard](assets/dashboard.png)
+![AI Threat Dashboard](assets/Screenshot%202025-06-23%20124138.png)
 
 ---
 
