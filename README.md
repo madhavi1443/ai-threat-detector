@@ -71,8 +71,6 @@ streamlit run threat_dashboard.py
 ```bash
 ollama run mistral
 ```
-## 🔗 Live Demo
-Try the app here: [Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/ai-threat-detector)
 
 ## 🧠 Technologies
 
